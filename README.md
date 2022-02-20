@@ -1,5 +1,5 @@
 ﻿# Welcome to Jorge's LoL Stat Website!
-
+### Development for this project is currently halted! Maybe will be redone using TypeScript!
 
 For my first project I attempted to create a League of Legends stat website using Riot Game's API and jQuery!
 
